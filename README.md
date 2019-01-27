@@ -2,13 +2,13 @@
 
 ## Ways to do - Folders. Short description:
 
-- heroku-psql-prisma:
+- <strong>heroku-psql-prisma:</strong>
 
   - Create database with heroku
   - Access database by PgAdmin
   - Add Prisma (connect database with prisma layer)
 
-- local-psql-prisma:
+- <strong>local-psql-prisma:</strong>
 
   - Create PostgresSQL container
   - Create access and create database
