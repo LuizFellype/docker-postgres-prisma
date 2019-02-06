@@ -11,7 +11,7 @@
 - <strong>local-psql-prisma:</strong>
 
   - Create PostgresSQL container
-  - Create access and create database
+  - Create access and create database ===> ps. You can just `prisma init` and `create new database` would be easier 
   - Access database by PgAdmin
   - Add Prisma (connect database with prisma layer)
 
